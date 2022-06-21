@@ -1,0 +1,62 @@
+.section {
+    padding-right: .7rem;
+    padding-left: .7rem;
+    padding-bottom: .7rem;
+    background-color: azure;
+    width: 100%;
+    max-width: 450px;
+}
+
+.section img{
+    margin-top: 7.5rem;
+    margin-left: 14%;
+    border-radius: 15%;
+}
+
+.btn {
+    padding: .5rem 3rem;
+    margin: 1rem 5rem;
+    display: inline-block;
+    border: none;
+    background: #00161C;
+}
+
+
+.btn a{
+    text-decoration: none;
+    font-family: 'Montserrat';
+    font-size: 1.2rem;
+    color: #fff;
+}
+
+.about-me {
+    padding-top: .75rem;
+    width: 90%;
+}
+
+@media screen and (min-width: 960px) {
+    .section {
+        margin-top: 5rem;
+        max-width: 660px;
+        width: 100%;
+        float: left;
+    }
+
+    .section img{
+        float: left;
+        margin-left: 20rem;
+    }
+    .btn {
+        float: left;
+        margin-left: 22rem;
+        margin-top: 2rem;
+    }
+
+    .section .about-me {
+        margin-left: 50rem;        
+        margin-top: 5rem;
+        width: 100%;
+        font-size: 1.2rem;
+    }
+}
+

@@ -1,0 +1,56 @@
+.container__cursos {
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+    width: 100%;
+    max-width: 400px;
+}
+
+.text__cursos {
+    text-align: center;
+    padding-top: 5rem;
+    font-family: 'Montserrat';
+}
+
+.text__cursos2 {
+    text-align: center;
+    font-family: 'Montserrat';
+}
+
+.img__cursos {
+    padding-top: .75rem;
+    width: 100%;
+}
+
+.li__cursos {
+    font-size: 1.2rem;
+}
+
+@media screen and (min-width: 960px){
+    .container__cursos {
+        max-width: 100%;
+        display: block;
+    }
+
+    .text__cursos {
+        margin-left: 1rem;
+    }
+
+    .text__cursos2{
+        padding-bottom: 2rem;
+    }
+
+    .img__cursos {
+        margin-left: 15rem;
+        max-width: 400px;
+    }
+
+    .text__cursos2 {
+        margin-top: -18rem;
+    }
+
+    .ul__cursos{
+        margin-left: 50rem;
+    }
+    
+    
+}

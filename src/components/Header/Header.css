@@ -1,0 +1,34 @@
+.header {
+    background-color: #00161C;
+    width: 100%;
+    height: 5rem;
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    position: absolute;
+    font-family: 'Open Sans', sans-serif;
+    z-index: 9;
+}
+
+.header__nav ul {
+    padding-left: .75rem;
+    text-align: center;
+}
+
+.header__li {
+    color: #fff;
+    font-size: 1.1rem;
+    list-style-type: none;
+    text-decoration: none;
+    display: inline-block;
+
+    margin-right: .7rem;
+    margin-bottom: 1.25rem;
+    margin-left: .5rem;
+ 
+}
+

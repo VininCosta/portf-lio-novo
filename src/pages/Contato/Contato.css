@@ -1,0 +1,23 @@
+.container__contato {
+    padding-top: 5rem;
+    width: 100%;
+    max-width: 400px;
+}
+
+.text__contato {
+    text-align: center;
+    padding-bottom: 4rem;
+}
+
+.contato {
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+@media screen and (min-width: 960px){
+    .container__contato {
+    width: 40%;
+    max-width: 960px;
+    margin-left: 35rem;
+    }
+}
