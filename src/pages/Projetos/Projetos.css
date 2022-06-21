@@ -38,17 +38,19 @@
     color: #fff;
 }
 
-@media screen and (min-width: 1222px) {
+@media screen and (min-width: 960px) {
     .container__projetos {
-        max-width: 950px;
+        max-width: 800px;
+        display: block;
         align-items: center;
         justify-content: center;
-        margin-left: 27rem;
+        margin-left: 17rem;
     }
 
     .title{
         text-align: center;
         margin-top: 2rem;
+        margin-left: 2.5rem;
     }
 
     .img {
@@ -59,12 +61,12 @@
     .text__projetos {
         text-align: center;
         margin-left: 14rem;
-        max-width: 475px;
+        width: 50%;
         font-size: 1.2rem;
         font-weight: bold;
     }
 
     .btn__projetos {
-        margin-left: 23rem;
+        margin-left: 20.5rem;
     }
 }

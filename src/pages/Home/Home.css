@@ -34,29 +34,29 @@
     width: 90%;
 }
 
-@media screen and (min-width: 1222px) {
+@media screen and (min-width: 960px) {
     .section {
-        margin-top: 5rem;
-        max-width: 660px;
+        margin-top: 2rem;
+        max-width: 500px;
         width: 100%;
         float: left;
     }
 
     .section img{
         float: left;
-        margin-left: 20rem;
+        margin-left: 15rem;
     }
     .btn {
         float: left;
-        margin-left: 22rem;
+        margin-left: 17rem;
         margin-top: 2rem;
     }
 
     .section .about-me {
-        margin-left: 50rem;        
+        margin-left: 40rem;        
         margin-top: 5rem;
         width: 100%;
-        font-size: 1.2rem;
+        font-size: 1rem;
     }
 }
 

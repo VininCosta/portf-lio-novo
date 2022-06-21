@@ -25,18 +25,19 @@
     font-size: 1.2rem;
 }
 
-@media screen and (min-width: 1222px){
+@media screen and (min-width: 960px){
     .container__cursos {
-        max-width: 100%;
+        max-width: 960px;
         display: block;
     }
 
     .text__cursos {
-        margin-left: 1rem;
+        margin-left: 26rem;
     }
 
     .text__cursos2{
-        padding-bottom: 2rem;
+        padding-left: 40rem;
+        margin-top: -18rem;
     }
 
     .img__cursos {
@@ -44,12 +45,9 @@
         max-width: 400px;
     }
 
-    .text__cursos2 {
-        margin-top: -18rem;
-    }
-
     .ul__cursos{
-        margin-left: 50rem;
+        margin-left: 40rem;
+        width: 50%;
     }
     
     

@@ -14,10 +14,10 @@
     font-size: 1.2rem;
 }
 
-@media screen and (min-width: 1222px) {
+@media screen and (min-width: 960px) {
     .container__contato {
     width: 40%;
-    max-width: 960px;
-    margin-left: 35rem;
+    max-width: 800px;
+    margin-left: 26rem;
     }
 }
