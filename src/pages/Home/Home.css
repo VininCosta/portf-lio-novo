@@ -34,7 +34,7 @@
     width: 90%;
 }
 
-@media screen and (min-width: 960px) {
+@media screen and (min-width: 1222px) {
     .section {
         margin-top: 5rem;
         max-width: 660px;
