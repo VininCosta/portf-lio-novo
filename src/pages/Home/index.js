@@ -11,9 +11,14 @@ function Home() {
         </button>
         <div className="about-me">
         <h3>Sobre mim</h3> 
-        <p>Sou um amante da tecnologia, com formação também na área administrativa. Possuo conhecimentos em ferramentas HTML, CSS, Javascript, React.js e Node.js para construção e design de experiências digitais. Procuro sempre estar me atualizando, dentro do mundo da tecnologia.</p>
-
+        <p>Desenvolvedor Full-Stack com experiência em tecnologias modernas como React, JavaScript, TypeScript, Node.js, Express.js, Nest.js e bancos de dados SQL. Hábil na criação de soluções web eficientes e escaláveis, com foco tanto no front-end quanto no back-end. Capaz de gerenciar todo o ciclo de desenvolvimento de software, desde o planejamento e design até a implementação e manutenção. Meu objetivo é contribuir para projetos desafiadores e inovadores, utilizando minhas habilidades técnicas para entregar produtos de alta qualidade.</p>
         <h4>Formação Acadêmica</h4> 
+
+        <ul>
+        <li><strong>Instituição:</strong> Universidade Anhembi Morumbi; </li>
+        <li><strong>Curso:</strong> Desenvolvimento de software e Metodologias Ágeis ;</li>
+        <li><strong>Formação:</strong> Junho/2024;</li>
+        </ul>
 
         <ul>
         <li><strong>Instituição:</strong> Centro Universitário das Faculdades Metropolitanas Unidas; </li>
